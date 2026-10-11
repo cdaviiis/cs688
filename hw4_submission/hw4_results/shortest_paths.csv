@@ -1,0 +1,3 @@
+Algorithm,Source,Target,Path,Cost
+Dijkstra,0,2,"[0, 992, 296, 2]",3
+A* (h=0),0,2,"[0, 992, 296, 2]",3
